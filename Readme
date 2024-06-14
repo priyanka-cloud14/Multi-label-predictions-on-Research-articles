@@ -1,0 +1,12 @@
+The main focus of our research is on using Natural Language Processing (NLP) and Multi-label classification approaches.
+Our goal is to classify research papers into several labels such as Computer Science, Physics, Mathematics etc
+Incorporated 5 different approaches
+
+1. Word Embeddings and Machine learning models
+2. BERT
+3. Neural Networks
+4. LLM - Mistral 7B
+5. Ensemble method - Rakel Algorithm
+
+BERT achieved the highest accuracy with 91% among all methods and algorithms tested, likely due to its
+ability to capture complex language patterns and relationships.
